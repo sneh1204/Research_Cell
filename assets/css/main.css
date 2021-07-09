@@ -1,0 +1,13 @@
+.login-background-color{
+    background-color: #212A45;
+}
+#label-form{
+    font-weight: bold;
+    font-style: italic;
+    color: #212A45;
+    border-block-end-color: white;
+    text-shadow: 1px 1px rgb(126, 160, 223);
+}
+.ck-editor__editable {
+    min-height: 200px !important;
+}
